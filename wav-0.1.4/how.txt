@@ -1,0 +1,5 @@
+(cd 96000 && echo "Making 48kHz files" && for file in *.wav; do sox $file -c 1 -r 48000 ../48000/$file; done)
+(cd 96000 && echo "Making 32kHz files" && for file in *.wav; do sox $file -c 1 -r 32000 ../32000/$file; done)
+(cd 96000 && echo "Making 16kHz files" && for file in *.wav; do sox $file -c 1 -r 16000 ../16000/$file; done)
+(cd 96000 && echo "Making  8kHz files" && for file in *.wav; do sox $file -c 1 -r  8000 ../8000/$file; done)
+# To build the native Debian package, simply run   dch -i   then   dpkg-buildpackage

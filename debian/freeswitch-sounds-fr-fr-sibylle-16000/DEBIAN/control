@@ -1,0 +1,9 @@
+Package: freeswitch-sounds-fr-fr-sibylle-16000
+Source: freeswitch-sounds-fr-fr-sibylle
+Version: 0.1.4-1
+Architecture: all
+Maintainer: Stephane Alnet (Packaging) <stephane@shimaore.net>
+Installed-Size: 12625
+Depends: freeswitch
+Description: French language files for FreeSwitch
+  This package contains the files as mono, 16kHz recordings.

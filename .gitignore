@@ -1,4 +1,6 @@
-fr/
+fr/fr/sibylle/
+opt/
+usr/share/
 freeswitch-sounds-fr-fr-sibylle-16000-*.tar.gz
 freeswitch-sounds-fr-fr-sibylle-32000-*.tar.gz
 freeswitch-sounds-fr-fr-sibylle-48000-*.tar.gz
@@ -9,3 +11,9 @@ wav/32000/
 wav/48000/
 wav/8000/
 wav/modes.txt
+*/16000/
+*/32000/
+*/48000/
+*/8000/
+old/
+wav-0.1.4/modes.txt

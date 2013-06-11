@@ -1,0 +1,26 @@
+Source: freeswitch-sounds-fr-fr-sibylle
+Maintainer: Stephane Alnet (Packaging) <stephane@shimaore.net>
+
+Package: freeswitch-sounds-fr-fr-sibylle-8000
+Architecture: all
+Depends: freeswitch
+Description: French language files for FreeSwitch
+  This package contains the files as mono, 8kHz recordings.
+
+Package: freeswitch-sounds-fr-fr-sibylle-16000
+Architecture: all
+Depends: freeswitch
+Description: French language files for FreeSwitch
+  This package contains the files as mono, 16kHz recordings.
+
+Package: freeswitch-sounds-fr-fr-sibylle-32000
+Architecture: all
+Depends: freeswitch
+Description: French language files for FreeSwitch
+  This package contains the files as mono, 32kHz recordings.
+
+Package: freeswitch-sounds-fr-fr-sibylle-48000
+Architecture: all
+Depends: freeswitch
+Description: French language files for FreeSwitch
+  This package contains the files as mono, 48kHz recordings.

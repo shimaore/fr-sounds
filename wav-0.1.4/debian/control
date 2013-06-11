@@ -1,0 +1,22 @@
+Source: generic-sounds-fr-fr-sibylle
+Maintainer: Stephane Alnet (Packaging) <stephane@shimaore.net>
+
+Package: generic-sounds-fr-fr-sibylle-8000
+Architecture: all
+Description: French language files, complete collection
+  This package contains the files as mono, 8kHz recordings.
+
+Package: generic-sounds-fr-fr-sibylle-16000
+Architecture: all
+Description: French language files, complete collection
+  This package contains the files as mono, 16kHz recordings.
+
+Package: generic-sounds-fr-fr-sibylle-32000
+Architecture: all
+Description: French language files, complete collection
+  This package contains the files as mono, 32kHz recordings.
+
+Package: generic-sounds-fr-fr-sibylle-48000
+Architecture: all
+Description: French language files, complete collection
+  This package contains the files as mono, 48kHz recordings.
