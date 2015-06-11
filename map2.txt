@@ -1,0 +1,101 @@
+more/accent_grave 36
+more/accent_aigu  37
+more/accent_circomflexe 38
+more/tema 39
+digits/x1 234 (t)et-un
+digits/x8 456 (t)huit
+voicemail/vm-last_f 264 dernière
+morc/surtaxe 292 Le numéro que vous avez composé est un numéro surtaxé.
+more/please-push 293 Veuillez appuyer sur
+more/please-type 294 Veuillez appuyer sur la touche
+more/to-continue 295 pour continuer.
+more/welcome_nnx 297 Bienvenue chez Neuronnexion
+more/account_balance 298 Le solde de votre compte est de
+more/thank-you 342 Merci et à bientôt.
+more/thank-you2 343 Merci, et à bientôt!
+more/for-yes 359 Pour “Oui”,
+more/for-no 360 Pour “Non”,
+more/for 363 Pour
+more/processed-in 370 Votre appel va être traité dans
+more/account-topup 371 Pour recharger votre compte,
+more/none 372 aucun
+more/push 373 , tapez
+more/your-balance-is 374 Votre solde est
+more/out 375 épuisé
+more/negative 376 négatif
+more/insufficient 377 insuffisant
+more/is 379 est
+more/isnt 380 n'est pas
+more/please-choose 383 Veuillez choisir votre
+more/language 384 langue
+more/cannot-route 385 Votre appel ne peut aboutir.
+more/386 386 Etes-vous sûr de vouloir continuer?
+more/387 387 La durée maximale de cet appel est de
+more/388 388 Le verrouillage parental
+more/389 389 est actif.
+more/390 390 est inactif.
+more/391 391 Veuillez composer votre code d'accès
+more/392 392 Votre appel va être déconnecté.
+more/393 393 Vous appelez un numéro surtaxé.
+more/394 394 Pour continuer,
+more/395 395 , sinon veuillez raccrocher.
+more/396 396 Cet appel vous sera facturé ...
+more/397 397 Cet appel est gratuit.
+more/398 398 Le solde de votre compte est insuffisant pour pouvoir placer cet appel.
+more/399 399 Votre forfait est épuisé.
+more/400 400 Cet appel vous sera facturé hors-forfait.
+more/of 401 de
+more/402 402 La durée maximale de cet appel sera
+more/403 403 Bienvenue sur le service info conso.
+more/404 404 Pour obtenir plus d'informations sur votre forfait,
+more/405 405 Pour consulter l'encourt de vos communications,
+more/406 406 Pour consulter le montant de votre dernière facture
+more/407 407 Pour être mis en relation avec votre service client,
+more/408 408 Votre forfait dispose d'un crédit de consommation téléphonique de ..
+more/409 409 Il comprend les appels à destination
+more/410 410 Il ne comprend pas les appels à destination
+more/411 411 des lignes fixes en france métropolitaine
+more/412 412 des numéros régionaux
+more/413 413 des opérateurs Voix sur IP
+more/414 414 des téléphones portables
+more/415 415 des numéros surtaxés
+more/416 416 des numéros spéciaux
+more/417 417 des numéros internationaux
+more/418 418 des départements et territoires d'outre mer
+more/419 419 Il vous reste
+more/420 420 de communication dans le cadre de votre forfait.
+more/attention 421 Attention
+more/422 422 cet encourt ne tient pas compte de vos appels passés
+more/423 423 depuis le
+more/424 424 Pour ré-écouter
+more/425 425 Pour consulter
+more/426 426 Pour obtenir
+more/427 427 Pour connaître
+more/428 428 Pour être mis en relation avec
+more/429 429 l'encourt de vos communications,
+more/430 430 l'encourt de votre forfait,
+more/431 431 le montant de votre dernière facture,
+more/432 432 le montant de vos communication lors de votre dernière facture
+more/433 433 plus d'informations,
+more/434 434 votre service client
+more/435 435 Pour revenir au menu général
+more/436 436 sinon, merci de patienter quelques instants.
+more/437 437 le montant de votre dernière facture,
+more/438 438 Vous allez pouvoir recréditer votre compte téléphonique. 
+more/439 439 Pour cela vous devrez composer votre code secret.
+more/440 440 Ce code est précisé sur votre contrat d'abonnement.
+more/441 441 Si vous ne disposez pas de ce code, veuillez contacter le service client en composant le 
+more/442 442 , composez votre code secret et terminez par dièse.
+more/443 443 Ce code est invalide. 
+more/444 444 Votre code est valide, vous allez maintenant pouvoir créditer votre compte.
+more/445 445 Précisez le montant en euro que vous voulez créditer et terminez par dièse.
+more/446 446 Pour annuler,
+more/447 447 Votre compte a été crédité de
+more/448 448 Un délais de quelques minutes peut être nécessaire a la prise en compte de votre commande.
+more/449 449 Neuronnexion vous remercie de votre confiance.
+more/450 450 Je vous met en relation avec le service client, veuillez patienter quelques instants. 
+more/451 451 Bonjour et bienvenue sur le service info conso.
+more/452 452 Votre appel ne peut pas être identifié.
+more/453 453 , veuillez composer le numéro de la ligne concernée et terminez par dièse.
+more/454 454 Après le signal sonore,
+more/455 455 appuyez sur la touche
