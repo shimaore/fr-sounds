@@ -1,9 +1,9 @@
 #!/bin/bash
 TARGET=fr/fr/sibylle
 VERSION=`jq -r .version package.json`
-(cd wav-$VERSION && ./build.sh)
+(cd wav/ && ./build.sh)
 
-perl map.pl wav-$VERSION map.txt map2.txt
+perl map.pl wav map.txt map2.txt
 
 cp README COPYRIGHT ${TARGET}
 for rate in 8000 16000 32000 48000; do
