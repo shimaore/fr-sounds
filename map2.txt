@@ -5,7 +5,7 @@ more/tema 39
 digits/x1 234 (t)et-un
 digits/x8 456 (t)huit
 voicemail/vm-last_f 264 dernière
-morc/surtaxe 292 Le numéro que vous avez composé est un numéro surtaxé.
+more/surtaxe 292 Le numéro que vous avez composé est un numéro surtaxé.
 more/please-push 293 Veuillez appuyer sur
 more/please-type 294 Veuillez appuyer sur la touche
 more/to-continue 295 pour continuer.
