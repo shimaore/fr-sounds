@@ -1,3 +1,4 @@
+#!/bin/bash
 for bw in 48 32 16 8; do
   (cd 96000 && echo "Making ${bw}kHz files" && mkdir -p ../${bw}000/ &&
     for file in *.wav; do

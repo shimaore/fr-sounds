@@ -1,5 +1,6 @@
+#!/bin/bash
 VERSION=0.1.4
-(cd wav-$VERSION && . how.txt)
+(cd wav-$VERSION && ./build.sh)
 
 (perl map.pl map.txt)
 
@@ -12,4 +13,4 @@ for rate in 8000 16000 32000 48000; do
   rm list.txt
 done
 
-rsync -a fr/fr/sibylle/ usr/share/freeswitch/sounds/fr/fr/sibylle/
+# rsync -a fr/fr/sibylle/ usr/share/freeswitch/sounds/fr/fr/sibylle/
