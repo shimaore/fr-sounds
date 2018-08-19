@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 TARGET=fr/fr/sibylle
 VERSION=`jq -r .version package.json`
 (cd wav/ && ./build.sh)

@@ -1,0 +1,8 @@
+image: alpine
+build:
+  script:
+  - apk add --update perl sox tar jq
+  - ./build.sh
+  artifacts:
+    paths:
+    - freeswitch-sounds-fr-fr-*.tar.gz
